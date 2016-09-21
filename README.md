@@ -1,5 +1,3 @@
-REPOSITORI DEL M01
-Muntatge i Reparació d'Equips
+## M01 Muntatge i manteniment d'equips
 
-2016-2017
-Marc Cabo Dieguez
+#### Holaaa !!
