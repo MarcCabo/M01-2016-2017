@@ -1,3 +1,3 @@
-# Instal.lació de Fedora 24 en KVM #  
-#### Cabo Dieguez,Marc ####  
+# Instal.lació de Fedora 24 en KVM   
+#### Cabo Dieguez,Marc   
 ---------------------------------------------------------------------------------------------------------------  
