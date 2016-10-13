@@ -1,5 +1,7 @@
 # Instal.lació de Fedora 24 en KVM   
 *Cabo Dieguez,Marc*   
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 1. **Triar com ens agradaria instal.lar el sistema operatiu (iso, cdrom, pxe, http, etc..)**
